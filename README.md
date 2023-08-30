@@ -1,4 +1,4 @@
-# 最新版本已移至https://github.com/SBsoft-Internet-Technology/Note-chat！
+# 最新版本已移至https://github.com/SBsoft-Internet-Technology/Note-chat 
 # Note-chat
 基于HTML, CSS, PHP, JS , MySQL实现的网页版即时聊天      
      
